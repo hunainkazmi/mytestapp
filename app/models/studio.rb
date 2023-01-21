@@ -1,3 +1,3 @@
 class Studio < ApplicationRecord
-
+    
 end
